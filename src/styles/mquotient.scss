@@ -1,0 +1,27 @@
+
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    padding-top: 5rem;
+}
+.action {
+    opacity: 0.1;
+}
+tr:hover .action{
+    opacity: 1;
+}
+.deleteContact{
+    cursor: pointer;
+}
+.profile {
+    cursor: pointer;
+}
+.content-part{
+    overflow-x: auto ;
+}
+$theme-colors : (
+    "primary": #6200ea,
+    "success" : #33691e,
+    "danger" : #f50057,
+    "warning" : #ffab00
+)

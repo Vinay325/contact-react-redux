@@ -1,0 +1,85 @@
+{
+   "Company": [
+      {
+         "userId": "AL01",
+         "name": "Anu",
+         "fatherName": "Tippesh",
+         "motherFullName": "Rami Bai",
+         "sex": "female",
+         "spouseName": "N/A",
+         "companyName": "googlo"
+      },
+      {
+         "userId": "AL02",
+         "name": "Naveen",
+         "fatherName": "Gangadhar",
+         "motherFullName": "Shanti",
+         "sex": "male",
+         "spouseName": "N/A",
+         "companyName": "googlo"
+      },
+      {
+         "userId": "AL03",
+         "name": "Santosh",
+         "fatherName": "Shankar",
+         "motherFullName": "Anusuya",
+         "sex": "male",
+         "spouseName": "N/A",
+         "companyName": "googlo"
+      },
+      {
+         "userId": "A01",
+         "name": "Rahul",
+         "fatherName": "Basappa",
+         "motherFullName": "Neelamani",
+         "sex": "male",
+         "spouseName": "N/A",
+         "companyName": "ammizon"
+      },
+      {
+         "userId": "A02",
+         "name": "Vipin",
+         "fatherName": "Manjappa",
+         "motherFullName": "Nita",
+         "sex": "male",
+         "spouseName": "dola",
+         "companyName": "ammizon"
+      },
+      {
+         "userId": "A03",
+         "name": "Tanga Mani",
+         "fatherName": "Hanks",
+         "motherFullName": "Bella Hanks",
+         "sex": "male",
+         "spouseName": "N/A",
+         "companyName": "ammizon"
+      },
+      {
+         "userId": "A01",
+         "name": "Rahul",
+         "fatherName": "Basappa",
+         "motherFullName": "Neelamani",
+         "sex": "male",
+         "spouseName": "N/A",
+         "companyName": "appulo"
+      },
+      {
+         "userId": "A02",
+         "name": "Vipin",
+         "fatherName": "Manjappa",
+         "motherFullName": "Nita",
+         "sex": "male",
+         "spouseName": "dola",
+         "companyName": "appulo"
+      },
+      {
+         "userId": "A03",
+         "name": "Tanga Mani",
+         "fatherName": "Hanks",
+         "motherFullName": "Bella Hanks",
+         "sex": "male",
+         "spouseName": "N/A",
+         "companyName": "appulo"
+      }
+   ]
+}
